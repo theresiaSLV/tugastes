@@ -1,0 +1,5 @@
+Jawaban soal No. 2
+cara menangani keamananan dalam pengiriman data adalah:
+1. menggunakan transfer log, yang artinya setiap pengiriman data direpresentasikan sebagai satu entry yang menunjukan informasi utama
+2. error log, bahwa setiap keasalahan adalah sebagai satu entry alasan untuk laporan kesalahan
+3. agent log, bahwa log ini memberikan informasi tentang perangkat lunak klien
